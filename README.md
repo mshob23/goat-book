@@ -16,31 +16,32 @@ end of chapter 2, so it's the branch to check out if you want to skip to the
 beginning of chapter 3.
 
 
-Here is the list of chapter branches, as of 2017-02-24:
+Here is the list of chapter branches, as of 2024-02-02
 
-Part 1:
+Part 1: The Basics of TDD and Django
 
 * [chapter_01](https://github.com/hjwp/book-example/tree/chapter_01)
 * [chapter_02_unittest](https://github.com/hjwp/book-example/tree/chapter_02_unittest)
-* [chapter_unit_test_first_view](https://github.com/hjwp/book-example/tree/chapter_unit_test_first_view)
-* [chapter_philosophy_and_refactoring](https://github.com/hjwp/book-example/tree/chapter_philosophy_and_refactoring)
-* [chapter_post_and_database](https://github.com/hjwp/book-example/tree/chapter_post_and_database)
-* [chapter_explicit_waits_1](https://github.com/hjwp/book-example/tree/chapter_explicit_waits_1)
-* [chapter_working_incrementally](https://github.com/hjwp/book-example/tree/chapter_working_incrementally)
+* [chapter_03_unit_test_first_view](https://github.com/hjwp/book-example/tree/chapter_03_unit_test_first_view)
+* [chapter_04_philosophy_and_refactoring](https://github.com/hjwp/book-example/tree/chapter_04_philosophy_and_refactoring)
+* [chapter_05_post_and_database](https://github.com/hjwp/book-example/tree/chapter_05_post_and_database)
+* [chapter_06_explicit_waits_1](https://github.com/hjwp/book-example/tree/chapter_06_explicit_waits_1)
+* [chapter_07_working_incrementally](https://github.com/hjwp/book-example/tree/chapter_07_working_incrementally)
 
+Part 2: Web Development Sine Qua Nons
 
-Part 2:
-
-* [chapter_prettification](https://github.com/hjwp/book-example/tree/chapter_prettification)
-* [chapter_manual_deployment](https://github.com/hjwp/book-example/tree/chapter_manual_deployment)
-* [chapter_automate_deployment_with_fabric](https://github.com/hjwp/book-example/tree/chapter_automate_deployment_with_fabric)
-* [chapter_organising_test_files](https://github.com/hjwp/book-example/tree/chapter_organising_test_files)
-* [chapter_database_layer_validation](https://github.com/hjwp/book-example/tree/chapter_database_layer_validation)
-* [chapter_simple_form](https://github.com/hjwp/book-example/tree/chapter_simple_form)
+* [chapter_08_prettification](https://github.com/hjwp/book-example/tree/chapter_08_prettification)
+* [chapter_09_docker](https://github.com/hjwp/book-example/tree/chapter_09_docker)
+* [chapter_10_production_readiness](https://github.com/hjwp/book-example/tree/chapter_10_production_readiness)
+* [chapter_11_ansible](https://github.com/hjwp/book-example/tree/chapter_11_ansible)
+* [chapter_12_organising_test_files](https://github.com/hjwp/book-example/tree/chapter_12_organising_test_files)
+* [chapter_13_database_layer_validation](https://github.com/hjwp/book-example/tree/chapter_13_database_layer_validation)
+* [chapter_14_simple_form](https://github.com/hjwp/book-example/tree/chapter_14_simple_form)
 * [chapter_advanced_forms](https://github.com/hjwp/book-example/tree/chapter_advanced_forms)
 * [chapter_javascript](https://github.com/hjwp/book-example/tree/chapter_javascript)
+* [chapter_deploying_validation](https://github.com/hjwp/book-example/tree/chapter_deploying_validation)
 
-Part 3: 
+Part 3: More Advanced Topics in Testing
 
 * [chapter_spiking_custom_auth](https://github.com/hjwp/book-example/tree/chapter_spiking_custom_auth)
 * [chapter_mocking](https://github.com/hjwp/book-example/tree/chapter_mocking)
@@ -50,12 +51,12 @@ Part 3:
 * [chapter_purist_unit_tests](https://github.com/hjwp/book-example/tree/chapter_purist_unit_tests)
 * [chapter_CI](https://github.com/hjwp/book-example/tree/chapter_CI)
 * [chapter_page_pattern](https://github.com/hjwp/book-example/tree/chapter_page_pattern)
+* [chapter_hot_lava](https://github.com/hjwp/book-example/tree/chapter_hot_lava), leave_supplier.Context():
 
 
-Appendices:
+Appendices
 
-* [appendix_Django_Class-Based_Views](https://github.com/hjwp/book-example/tree/appendix_Django_Class-Based_Views)
-* [appendix_bdd](https://github.com/hjwp/book-example/tree/appendix_bdd)
+* [appendix_Django_Class-Based_Views](https://github.com/hjwp/book-example/tree/Based_Views)
+* [book/appendix_bdd](https://github.com/hjwp/book-example/tree/appendix_bdd)
 * [appendix_rest_api](https://github.com/hjwp/book-example/tree/appendix_rest_api)
 * [appendix_DjangoRestFramework](https://github.com/hjwp/book-example/tree/appendix_DjangoRestFramework)
-
